@@ -18,3 +18,9 @@ To replicate this project you'll need to create a new node server. Open a new te
 
 1. Initialize a new project: `npm i`
 2. run the development server with `npm run dev`
+
+
+
+#### Link to deployed service
+
+http://imagify1.us-east-1.elasticbeanstalk.com/
